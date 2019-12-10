@@ -15,9 +15,7 @@ public class Client {
         this.password =password;
         this.firstName = firstName;
         this.lastName =lastName;
-        this.phone = phone;
-
-    }
+        this.phone = phone; }
 
     public String getEmail(){return email;}
     public String getPassword(){return password;}
